@@ -1,6 +1,6 @@
 # Welcome to Pet Vet Hospital!!
 
-![Pet Vet Hospital](https://pet-vet-healthcare.web.app/)
+[Pet Vet Hospital](https://pet-vet-healthcare.web.app/)
 
 * Implemented protected route and authentication with Firebase and React JS.
 * Registered Users with email and passwords can see details about services and make an appointment or call an ambulance.
